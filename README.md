@@ -2,7 +2,7 @@
 A collection of various CTF write-ups and installation walkthroughs of different software and tools.
 
 
-### Write ups
+### CTF
 - MonitorsTwo(HTB)
 
 
