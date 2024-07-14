@@ -4,8 +4,45 @@
    <img src="https://github.com/slimreap3r/Writeups-n-Walkthroughs/blob/main/assets/Parrot/Step_12_P.png" width="650" height="300">
 </p>
 
-
 ### . . . 4 . . . 3 . . . 2 . . . 1 🚀 
+
+<p align="center">
+   <img src="https://github.com/slimreap3r/Writeups-n-Walkthroughs/blob/main/assets/VM/Step_1.png" width="500" height="350">
+</p>
+
+<p align="center">
+   <img src="https://github.com/slimreap3r/Writeups-n-Walkthroughs/blob/main/assets/VM/Step_2.png" width="500" height="350">
+</p>
+
+<p align="center">
+   <img src="https://github.com/slimreap3r/Writeups-n-Walkthroughs/blob/main/assets/VM/Step_3.png" width="500" height="350">
+</p>
+
+<p align="center">
+   <img src="https://github.com/slimreap3r/Writeups-n-Walkthroughs/blob/main/assets/VM/Step_4.png" width="500" height="350">
+</p>
+
+<p align="center">
+   <img src="https://github.com/slimreap3r/Writeups-n-Walkthroughs/blob/main/assets/VM/Step_5.png" width="500" height="350">
+</p>
+
+<p align="center">
+   <img src="https://github.com/slimreap3r/Writeups-n-Walkthroughs/blob/main/assets/VM/Step_6.png" width="500" height="350">
+</p>
+
+<p align="center">
+   <img src="https://github.com/slimreap3r/Writeups-n-Walkthroughs/blob/main/assets/VM/Step_7.png" width="500" height="350">
+</p>
+
+<p align="center">
+   <img src="https://github.com/slimreap3r/Writeups-n-Walkthroughs/blob/main/assets/VM/Step_8.png" width="500" height="350">
+</p>
+
+<p align="center">
+   <img src="https://github.com/slimreap3r/Writeups-n-Walkthroughs/blob/main/assets/VM/Step_9.png" width="500" height="350">
+</p>
+
+
 <p align="center">
    <img src="https://github.com/slimreap3r/Writeups-n-Walkthroughs/blob/main/assets/Parrot/Step_1_P.png" width="650" height="300">
 </p>
