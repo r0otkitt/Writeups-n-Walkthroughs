@@ -3,7 +3,10 @@ A collection of various CTF write-ups and installation walkthroughs of different
 
 
 ### CTF
-- MonitorsTwo-HTB
+
+#### TryHackMe
+- Opacity (Linux)
+  
 
 
 
